@@ -47,8 +47,8 @@
 #include <marsyas/CommandLineOptions.h>
 #include <marsyas/FileName.h>
 
-#include "MarSystemTemplateBasic.h"
-#include "MarSystemTemplateAdvanced.h"
+#include <marsyas/marsystems/MarSystemTemplateBasic.h>
+#include <marsyas/marsystems/MarSystemTemplateAdvanced.h>
 #include <marsyas/sched/EvValUpd.h>
 #include <marsyas/Collection.h>
 #include <marsyas/NumericLib.h>
